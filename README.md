@@ -4,7 +4,7 @@ Please run:
 
 1. npm install
 
-2. npm install typescript
+2. (sudo) npm install typescript -g
 
 3. tsc
 
